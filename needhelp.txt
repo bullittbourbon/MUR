@@ -1,0 +1,27 @@
+Signable petition, hosted here:
+https://secure.avaaz.org/en/community_petitions/european_union_ema_european_medicines_angency_must_issue_emergency_use_authorization_for_coronavirus_med_tech/details/
+
+The EC has already asked the CEN and CENELEC to make standards for protective medical equipment available for free. Why not PAPRs and ventilators?
+(This list: https://www.cencenelec.eu/News/Press_Releases/Pages/PR-2020-003.aspx does not include medical devices.)
+Government are awarding contracts to large manufacturers who have no experience with medical devices. Before this emergency, it had been small to medium businesses that filled the niche. Now indepedent developers are kept from 'trade secrets'-- which are actually necessary standards and regulations-- by inaccessibility and a pay wall.
+
+Health care systems in the EU are well beyond capacity. Hospitals need to increase capacity with emergency technology like low cost PAPR and open source ventilators NOW. Patients have no time to wait for the long process of CE approval. Yet, independent developers are unable to make devices to meet specified quality because standards are not accessible.
+
+The FDA has already promulgated Emergency Use Authorization enforcement policy to fast track ventilators being manufactured.
+https://www.fda.gov/media/136318/download
+The UK government has promulgated specs for Rapidly Manufactured Ventilator Systems:
+https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification
+and made ISO and UK standards free to the public:
+https://www.bsigroup.com/en-GB/topics/novel-coronavirus-covid-19/ventilators/
+
+In contrast, individual EU member states have not made guidelines accessible and CEN and CENELEC continue to require developers to buy the standards. In many cases, testing facilities are closed due to the lockdown. The EU can support its member states by adapting the application of CE and testing requirements, it has not. By not doing so, the EU is placing business over people.
+
+The EU's lethargic reaction is failing all European member communities, slowing down the return to everyday activities. The people of the EU have the talent and capacity to produce domestic solutions. Many are ready for non-commercial production. But they cannot meet standards because of the imposed inaccessibility.
+
+
+The EU has the ability to encourage immediate medical device production by promulgating a policy similar to the EMA's early access compassionate use scheme for medications, adapting the expanded access scheme to medical devices and expedite the approval process. Interestingly, it is doing the opposite. The EU Parliament has the duty to adapt application of CE and other compliance laws in the face of the emergency.
+ 
+The health ministries of EU member states have the obligation to respond to demands in their hospitals as well as in-home self care. They also have the power to call for help from their populations as the US and UK did, by making standards accessible. They are not.
+Promises of funding long term research is lip service, it does not answer IMMEDIATE needs. Innovation means practical applications, it is not a buzzword nor mere appearance. Clear the red tape now.
+
+(A version of this petition directed at the EU Parliament was submitted via its web portal on the 3rd of April, presented to Mr. Breton on 5th of April.)
